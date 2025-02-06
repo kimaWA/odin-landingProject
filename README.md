@@ -1,13 +1,19 @@
 # The Odin Project
 ## Project: Landing Page
 
-Hi! Welcome to the first web-development project in **TOP**: the *Landing Page*.
-I will be demonstrating learned <ins>HTML, CSS, and Github</ins> skills to create this home page "website."
+Hi! Welcome to the first web-development project in The Odin Project: the *Landing Page*. The project is in the [Foundations section](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox) of The Odin Project.
+
+I will be demonstrating learned <u>HTML</u>, <u>CSS</u>, and <u>GitHub</u>skills to create this home page "website."
 
 ## Assignment
 
-To demonstrate these learned skills, I will use only two images to help guide me towards the final project:
-***"Landing Project - Full Design (01),"*** and ***"Landing Project - Styling Color and Fonts."***
+To demonstrate these learned skills, I will use only two images to help guide me towards the final desired result:
+
+***"Landing Project - Full Design (01),"*** and ***"Landing Project - Styling Color and Fonts (02)."***
+
+![Screenshot of the end result design in the Landing Project](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)
+
+![Screenshot of the designing guidelines in the Landing Project](https://cdn.statically.io/gh/TheOdinProject/curriculum/a38403e7d81cc8305af16ac48985cfbde87834d6/foundations/html_css/flexbox/project-landing-page/imgs/02.png)
 
 Furthermore, there is tips from [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page#assignment).
 > Don’t forget to commit early & often! You can reference the Commit Message lesson!
