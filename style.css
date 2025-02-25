@@ -1,10 +1,27 @@
 body {
 	display: flex;
 	flex-direction: column;
+	min-height: 100vh;
+
 	margin: 0px;
+	padding: 0px;
 }
 
-div {
-	padding: 20px;
-	border: 2px, black, solid;
+.section {
+	flex: 1 1 0;
+	padding: 0 10%;
 }
+
+/* TOP SECTION STYLING */
+
+
+
+/* SECOND SECTION STYLING */
+
+
+
+/* THIRD SECTION STYLING */
+
+
+
+/* BOTTOM SECTION STYLING */
