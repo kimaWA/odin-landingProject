@@ -140,6 +140,28 @@ body {
 
 /* THIRD SECTION STYLING */
 
+.section.third {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 
+.content-third {
+	display: flex;
+	flex-direction: column;
+	width: 60%;
+}
+	.quote {
+		font-size: 36px;
+		color: #1F2937;
+	}
 
+	.source {
+		display: flex;
+		justify-content: flex-end;
+
+		font-size: 24px;
+		color: #1F2937;
+		font-weight: 700;
+	}
 /* BOTTOM SECTION STYLING */
